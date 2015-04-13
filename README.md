@@ -21,3 +21,8 @@
 ## Fim de projeto
 
 * Chega-se ao fim do projeto quando os seus objetivos foram alcançados ou quando torna-se claro que os objetivos do projeto não serão ou não poderão mais ser atingidos ou a necessidade do projeto não existe mais.
+
+## Projetos X Operações Continuadas
+
+* O objetivo de um projeto é alcançar o objetivo proposto e encerrar o projeto.
+* O objetivo de uma operação continuada não projetizada é sustentar o negócio, gerando receitas para as organizações.

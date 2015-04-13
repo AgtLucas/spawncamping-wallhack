@@ -102,3 +102,8 @@
 
 * A Gerência dos Riscos do Projeto descreve os processos que dizem respeito à identificação, análise e resposta a riscos do projeto.
 * Ele é composto pelo Planejamento da Gerência de Risco, identificação dos riscos, análise qualitativa de riscos, análise quantitativa de riscos, desenvolvimento das respostas aos riscos e controle e monitoração de riscos.
+
+## PMBOK - Gerência de Aquisições
+
+* A Gerência das Aquisições do Projeto, descreve os processos necessários para a aquisição de mercadorias e serviços fora da organização que desenvolve o projeto.
+* Ele é composto pelo planejamento das aquisições, reparação das aquisições, obtenção de propostas, seleção de fornecedores, administração e encerramento do contrato.

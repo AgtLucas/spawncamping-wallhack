@@ -31,3 +31,10 @@
 
 * Pode ser descrito como a aplicação de conhecimento, habilidades, ferramentas e técnicas às atividades do projeto a fim de atender às suas demandas.
 * O Gerenciamento do Projeto é acompanhado através do uso de processos tais como: iniciação, planejamento, execução, controle e encerramento.
+
+## O papel do Gerente de Projetos
+
+* a identificação das suas necessidades;
+* o estabelecimento de objetivos claros e palpáveis;
+* o devido balanceamento entre qualidade, escopo, tempo e custo;
+* o atendimento às expectativas (requerimentos não identificados ) e necessidades (requerimentos identificados) de todas as partes interessadas (stakeholders ou intervenientes);

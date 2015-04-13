@@ -1,2 +1,3 @@
-# spawncamping-wallhack
-Get out!
+# Spawncamping Wallhack
+
+

@@ -97,3 +97,8 @@
 
 * A Gerência das Comunicações do Projeto descreve os processos necessários para assegurar que a geração, captura, distribuição, armazenamento e pronta apresentação das informações do projeto sejam feitas de forma adequada e no tempo certo.
 * Ele é composto pelo planejamento das comunicações, distribuição das informações, relato de desempenho e encerramento administrativo.
+
+## PMBOK - Gerência de Riscos
+
+* A Gerência dos Riscos do Projeto descreve os processos que dizem respeito à identificação, análise e resposta a riscos do projeto.
+* Ele é composto pelo Planejamento da Gerência de Risco, identificação dos riscos, análise qualitativa de riscos, análise quantitativa de riscos, desenvolvimento das respostas aos riscos e controle e monitoração de riscos.

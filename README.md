@@ -8,6 +8,10 @@
 
 * É utilizado como entrada para a criação dos documentos da WBS(gerência de escopo). Ativos de processos nada mais é que a própria cultura da empresa, ou seja, são todos os processos, políticas e burocracias que podem impactar no sucesso do projeto, por exemplo: "Política para adquirir um novo computador".
 
+## EAP/WBS
+
+* Uma EAP (Estrutura Analítica de Projetos) ou em inglês WBS (Work Breakdown Structure) é utilizada para evidenciar as entregas do projeto. Ela inclui todo o escopo do projeto, ou seja, o trabalho necessário (e somente ele) para terminar o projeto e atender os requisitos das partes interessadas.
+
 ## O que é um projeto?
 
 * Processo único, consistindo de um grupo de atividades coordenadas e controladas com datas para início e término, empreendido para alcance de um objetivo conforme requisitos específicos, incluindo limitações de tempo, custo e  recursos.

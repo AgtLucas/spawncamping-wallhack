@@ -26,3 +26,8 @@
 
 * O objetivo de um projeto é alcançar o objetivo proposto e encerrar o projeto.
 * O objetivo de uma operação continuada não projetizada é sustentar o negócio, gerando receitas para as organizações.
+
+## O que é Gerência de Projetos?
+
+* Pode ser descrito como a aplicação de conhecimento, habilidades, ferramentas e técnicas às atividades do projeto a fim de atender às suas demandas.
+* O Gerenciamento do Projeto é acompanhado através do uso de processos tais como: iniciação, planejamento, execução, controle e encerramento.

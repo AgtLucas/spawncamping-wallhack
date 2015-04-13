@@ -77,3 +77,13 @@
 
 * A Gerência do Tempo do Projeto descreve os processos necessários para assegurar que o projeto termine dentro do prazo previsto.
 * Ele é composto pela definição das atividades, sequenciamento das atividades, estimativa da duração das atividades, desenvolvimento do cronograma e controle do cronograma.
+
+## PMBOK - Gerência do Custo
+
+* A Gerência do Custo do Projeto descreve os processos necessários para assegurar que o projeto seja completado dentro do orçamento previsto.
+* Ele é composto pelo planejamento dos recursos, estimativa dos custos, orçamento dos custos e controle dos custos.
+
+## PMBOK - Gerência da Qualidade
+
+* A Gerência da Qualidade do Projeto descreve os processos necessários para assegurar que as necessidades que originaram o desenvolvimento o projeto serão satisfeitas.
+* Ele é composto pelo planejamento da qualidade, garantia da qualidade e controle da qualidade.

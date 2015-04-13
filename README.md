@@ -39,3 +39,8 @@
 * o estabelecimento de objetivos claros e palpáveis;
 * o devido balanceamento entre qualidade, escopo, tempo e custo;
 * o atendimento às expectativas (requerimentos não identificados ) e necessidades (requerimentos identificados) de todas as partes interessadas (stakeholders ou intervenientes);
+
+## Como saber se um projeto foi bem sucedido?
+
+* Podemos considerar que um projeto bem sucedido é aquele que é realizado conforme planejado.
+* Se um projeto utilizou menos recursos, possivelmente houve uma falha de planejamento, que pode ter prejudicado outros projetos que não foram executados por que não havia recursos disponíveis para todos.

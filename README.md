@@ -52,3 +52,19 @@
 * É dividido em 2 partes:
   * Parte I – 3 capítulos introdutórios.
   * Parte II – Detalha os processos de gerenciamento de projetos dentro de cada área de conhecimento.
+  * -//-
+  * Gerência de Integração;
+  * Gerência do Escopo;
+  * Gerência do Tempo;
+  * Gerência do Custo;
+  * Gerência da Qualidade;
+  * Gerência de RH do Projeto;
+  * Gerência de Comunicações;
+  * Gerência de Riscos;
+  * Gerência de Aquisições;
+
+## PMBOK - Gerência de Integração
+
+* A Gerência da Integração descreve os processos necessários para assegurar que os diversos elementos do projeto sejam adequadamente coordenados e integrados.
+* Ele é composto pelo desenvolvimento do plano do projeto, execução do plano do projeto e controle integrado de mudanças.
+

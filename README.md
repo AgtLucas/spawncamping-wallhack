@@ -124,7 +124,7 @@
 * Membros da equipe do projeto – o grupo que realiza o trabalho do projeto.
 * Patrocinador – indivíduo ou grupo, dentro da organização executora, que provê os recursos financeiros, em dinheiro ou espécie, para o projeto.
 
-## PMO
+## PMO (Project Management Office)
 
 * Um escritório de projeto pode operar em um continuo fornecimento de funções de suporte para os gerentes de projeto na forma de treinamento, software, padrões, etc.
 * Isso o torna realmente responsável pelos resultados do projeto.

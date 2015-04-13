@@ -49,7 +49,7 @@
 * Podemos considerar que um projeto bem sucedido é aquele que é realizado conforme planejado.
 * Se um projeto utilizou menos recursos, possivelmente houve uma falha de planejamento, que pode ter prejudicado outros projetos que não foram executados por que não havia recursos disponíveis para todos.
 
-## PMBOK
+## PMBOK (Project Management Body of Knowledge)
 
 * O principal objetivo do PMBOK é fornecer uma visão geral das melhores práticas em gerenciamento de projetos, de forma que estas práticas sejam aplicáveis.
 * É o guia mais importante do mundo na área de gerenciamento de projetos.

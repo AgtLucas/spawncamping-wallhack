@@ -68,3 +68,12 @@
 * A Gerência da Integração descreve os processos necessários para assegurar que os diversos elementos do projeto sejam adequadamente coordenados e integrados.
 * Ele é composto pelo desenvolvimento do plano do projeto, execução do plano do projeto e controle integrado de mudanças.
 
+## PMBOK - Gerência do Escopo
+
+* A Gerência do Escopo do Projeto descreve os processos necessários para assegurar que o projeto contemple todo o trabalho requerido, e nada mais que o trabalho requerido, para completar o projeto com sucesso;
+* Ele é composto pela iniciação, planejamento do escopo, detalhamento do escopo, verificação do escopo e controle de mudanças do escopo;
+
+## PMBOK - Gerência do Tempo
+
+* A Gerência do Tempo do Projeto descreve os processos necessários para assegurar que o projeto termine dentro do prazo previsto.
+* Ele é composto pela definição das atividades, sequenciamento das atividades, estimativa da duração das atividades, desenvolvimento do cronograma e controle do cronograma.

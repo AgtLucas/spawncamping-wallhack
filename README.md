@@ -87,3 +87,8 @@
 
 * A Gerência da Qualidade do Projeto descreve os processos necessários para assegurar que as necessidades que originaram o desenvolvimento o projeto serão satisfeitas.
 * Ele é composto pelo planejamento da qualidade, garantia da qualidade e controle da qualidade.
+
+## PMBOK - Gerência de RH do Projeto
+
+* A Gerência dos Recursos Humanos do Projeto descreve os processos necessários para proporcionar a melhor utilização das pessoas envolvidas no projeto.
+* Ele é composto pelo planejamento organizacional, montagem da equipe e desenvolvimento da equipe.

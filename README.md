@@ -17,3 +17,7 @@
 
 * Temporário significa que cada projeto tem um começo e um fim bem definidos.
 * Único significa que o produto ou serviço produzido é de alguma forma diferente de todos os outros produtos ou serviços semelhantes.
+
+## Fim de projeto
+
+* Chega-se ao fim do projeto quando os seus objetivos foram alcançados ou quando torna-se claro que os objetivos do projeto não serão ou não poderão mais ser atingidos ou a necessidade do projeto não existe mais.

@@ -128,3 +128,8 @@
 
 * Um escritório de projeto pode operar em um continuo fornecimento de funções de suporte para os gerentes de projeto na forma de treinamento, software, padrões, etc.
 * Isso o torna realmente responsável pelos resultados do projeto.
+
+## Ciclo de Vida
+
+* O ciclo de vida do projeto serve para definir o início e o fim de um projeto.
+* A definição do ciclo de vida do projeto também determina os procedimentos de transição para o ambiente de operação que serão incluídos ao final do projeto, distinguindo-os dos que não serão.

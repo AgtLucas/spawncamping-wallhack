@@ -114,3 +114,13 @@
 
 * A Gerência das Aquisições do Projeto, descreve os processos necessários para a aquisição de mercadorias e serviços fora da organização que desenvolve o projeto.
 * Ele é composto pelo planejamento das aquisições, reparação das aquisições, obtenção de propostas, seleção de fornecedores, administração e encerramento do contrato.
+
+## Stakeholders
+
+* São indivíduos e organizações diretamente envolvidos no projeto, ou aqueles cujos interesses podem ser afetados, de forma positiva ou negativa, no decorrer do projeto ou mesmo após sua conclusão;
+* Gerente do projeto – indivíduo responsável pela gerência do projeto.
+* Cliente – indivíduo ou organização que fará uso do produto do projeto.
+* Organização executora – empresa cujos funcionários estão mais diretamente envolvidos na execução do projeto.
+* Membros da equipe do projeto – o grupo que realiza o trabalho do projeto.
+* Patrocinador – indivíduo ou grupo, dentro da organização executora, que provê os recursos financeiros, em dinheiro ou espécie, para o projeto.
+* 

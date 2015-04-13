@@ -72,6 +72,9 @@
 
 * A Gerência do Escopo do Projeto descreve os processos necessários para assegurar que o projeto contemple todo o trabalho requerido, e nada mais que o trabalho requerido, para completar o projeto com sucesso;
 * Ele é composto pela iniciação, planejamento do escopo, detalhamento do escopo, verificação do escopo e controle de mudanças do escopo;
+* O escopo é a soma dos produtos, serviços e resultados a serem fornecidos na forma de projeto. Sendo ele referindo-se a:
+ * Escopo do projeto – O trabalho que deve ser realizado para entregar um produto, serviço ou resultado com as funcionalidades e funções especificadas. As vezes, este termo é visto como incluindo o escopo do produto;
+ * Escopo do produto – As características e funções que caracterizam um produto, serviço ou resultado.
 
 ## PMBOK - Gerência do Tempo
 

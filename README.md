@@ -12,3 +12,8 @@
 
 * Processo único, consistindo de um grupo de atividades coordenadas e controladas com datas para início e término, empreendido para alcance de um objetivo conforme requisitos específicos, incluindo limitações de tempo, custo e  recursos.
 * Um projeto é um empreendimento temporário com o objetivo de criar um produto ou serviço único.
+
+## Características dos projetos
+
+* Temporário significa que cada projeto tem um começo e um fim bem definidos.
+* Único significa que o produto ou serviço produzido é de alguma forma diferente de todos os outros produtos ou serviços semelhantes.

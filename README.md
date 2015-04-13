@@ -92,3 +92,8 @@
 
 * A Gerência dos Recursos Humanos do Projeto descreve os processos necessários para proporcionar a melhor utilização das pessoas envolvidas no projeto.
 * Ele é composto pelo planejamento organizacional, montagem da equipe e desenvolvimento da equipe.
+
+## PMBOK - Gerência de Comunicações
+
+* A Gerência das Comunicações do Projeto descreve os processos necessários para assegurar que a geração, captura, distribuição, armazenamento e pronta apresentação das informações do projeto sejam feitas de forma adequada e no tempo certo.
+* Ele é composto pelo planejamento das comunicações, distribuição das informações, relato de desempenho e encerramento administrativo.

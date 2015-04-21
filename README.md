@@ -1,5 +1,3 @@
-# Spawncamping Wallhack
-
 ## O que é um requisito?
 
 * Requisito é uma característica ou função que o sistema deve prover pra sanar a necessidade do cliente.
